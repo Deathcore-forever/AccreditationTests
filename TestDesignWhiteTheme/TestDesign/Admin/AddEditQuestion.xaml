@@ -1,0 +1,71 @@
+﻿<Window x:Class="TestDesign.AddEditQuestion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestDesign"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Height="700" Width="800" FontFamily="Consolas">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" Background="#73B8CD">
+            <TextBlock x:Name="WindowHeader" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="24px" FontWeight="Bold"></TextBlock>
+        </DockPanel>
+
+        <WrapPanel Margin="10" Grid.Row="1">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold">Вопрос:</TextBlock>
+            <TextBox x:Name="questionText" FontSize="20px" TextWrapping="Wrap" Height="50" Width="744" ></TextBox>
+        </WrapPanel>
+
+        <WrapPanel x:Name="testsListContainer" Margin="10 5 0 0" Grid.Row="2">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Тест:"></TextBlock>
+            <ComboBox Background="White" BorderThickness="0 0 0 2" x:Name="testsList" ItemsSource="{Binding}" Width="250px" Margin="30 0 0 0">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock TextWrapping="NoWrap" FontSize="20px" Foreground="#317F97" Text="{Binding Name}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </WrapPanel>
+        
+        <WrapPanel Margin="10 5 0 0" Grid.Row="3">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Ответ 1:"></TextBlock>
+            <TextBox x:Name="response1Text" FontSize="20px" Height="30px" Width="654" BorderThickness="0 0 0 2"/>
+        </WrapPanel>
+
+        <WrapPanel Margin="10 5 0 0" Grid.Row="4">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Ответ 2:"></TextBlock>
+            <TextBox x:Name="response2Text" FontSize="20px" Margin="0 0 0 1" Height="30px" Width="654" BorderThickness="0 0 0 2"></TextBox>
+        </WrapPanel>
+
+        <WrapPanel Margin="10 5 0 0" Grid.Row="5">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Ответ 3:"></TextBlock>
+            <TextBox x:Name="response3Text" FontSize="20px" Margin="0 0 0 1" Height="30px" Width="654" BorderThickness="0 0 0 2"></TextBox>
+        </WrapPanel>
+
+        <WrapPanel Margin="10 5 0 0" Grid.Row="6">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Ответ 4:"></TextBlock>
+            <TextBox x:Name="response4Text" FontSize="20px" Margin="0 0 0 1" Height="30px" Width="654" BorderThickness="0 0 0 2"></TextBox>
+        </WrapPanel>
+
+        <WrapPanel Margin="10 5 0 0" Grid.Row="7">
+            <TextBlock Foreground="#317F97" FontSize="20px" FontWeight="ExtraBold" Text="Ответ 5:"></TextBlock>
+            <TextBox x:Name="response5Text" FontSize="20px" Margin="0 0 0 1" Height="30px" Width="654" BorderThickness="0 0 0 2"></TextBox>
+        </WrapPanel>
+
+        <Button x:Name="mainButton" Grid.Row="8" Width="200" Height="30" Content="Добавить вопрос" Click="MainButtonClick"></Button>
+    </Grid>
+</Window>

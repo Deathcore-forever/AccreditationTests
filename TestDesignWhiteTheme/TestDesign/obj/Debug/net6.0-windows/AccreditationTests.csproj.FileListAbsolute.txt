@@ -1,0 +1,466 @@
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\AccreditationTests.db
+D:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+D:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+E:\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+E:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+D:\ПРЕДИПЛОМ МЯУ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddTest.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddTest.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddTest.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddTest.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+D:\НОВЫЙ ДИПЛОМ\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\resources\Инструкция.pdf
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\депломе\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.AssemblyReference.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_Content.g.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests_MarkupCompile.lref
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditQuestion.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AddEditTest.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\Admin\AdminPanel.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.g.resources
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfoInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.AssemblyInfo.cs
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CoreCompileInputs.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\refint\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.exe
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.deps.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.runtimeconfig.json
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\AccreditationTests.pdb
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.csproj.CopyComplete
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.dll
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\AccreditationTests.genruntimeconfig.cache
+C:\Users\mixos\Desktop\НОВЫЙ ДИПЛОМ ver 2.0\Программа\TestDesignWhiteTheme\TestDesign\obj\Debug\net6.0-windows\ref\AccreditationTests.dll

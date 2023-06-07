@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKYD3aPCAalMpeuEkMZ6e4vM9XG4DC5GfKz0hD/MYuP+9uwkwoCpmeZXsbVQgFLU5yMjqhYBdYP87HKsGA2USA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mixos\\Desktop\\Дипломный проект Карташов Михаил 9901\\Программа\\TestDesignWhiteTheme\\TestDesign\\AccreditationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mixos\\.nuget\\packages\\microsoft.data.sqlite\\7.0.3\\microsoft.data.sqlite.7.0.3.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.3\\microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\mixos\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

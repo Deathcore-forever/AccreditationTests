@@ -1,0 +1,168 @@
+﻿<Window x:Class="TestDesign.AdminPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestDesign" xmlns:col="clr-namespace:System.Collections;assembly=System.Collections.NonGeneric"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Consolas"
+        Title="Панель администратора" Height="450" Width="800" Icon="/resources/appicon.png" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--<Button Click="OpenAddingQuestionWindow" Grid.Row="4" FontSize="16" FontWeight="Bold" Foreground="White" Width="150" Height="35" Background="#317F97" BorderBrush="DarkSlateGray" BorderThickness="3">Добавить вопрос</Button>
+        -->
+
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="3*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Width="200" Height="200" Grid.Row="0" Source="/resources/menuicon.png"></Image>            
+            
+            <WrapPanel HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center">
+                <TextBlock MouseLeftButtonDown="LoadAdmins" MouseLeave="TextBlock_MouseLeave" MouseEnter="TextBlock_MouseEnter" FontSize="34" FontWeight="Bold" Foreground="#317F97" Grid.Row="1" Text="Администраторы" VerticalAlignment="Center"></TextBlock>
+            </WrapPanel>
+
+            <ListBox x:Name="TestList" ItemsSource="{Binding}" Grid.Row="2" VerticalAlignment="Center" HorizontalContentAlignment="Center" BorderThickness="0 1 0 1">
+                <ListBox.Resources>
+                    <ContextMenu x:Key="TestContextMenu" FontFamily="Consolas" FontSize="20px" Foreground="CadetBlue">
+                        <MenuItem Header="Добавить"
+                              Click="AddTest">
+                            <MenuItem.Icon>
+                                <Image Source="/resources/plus.png"></Image>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <MenuItem Header="Изменить"
+                                  Click="EditTest"
+                                  CommandParameter="{Binding RelativeSource={RelativeSource Self}, Path=Parent}">
+                            <MenuItem.Icon>
+                                <Image Source="/resources/changeIcon.png"></Image>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <MenuItem Header="Удалить"
+                              Click="DeleteTest"
+                              CommandParameter="{Binding RelativeSource={RelativeSource Self}, Path=Parent}">
+                            <MenuItem.Icon>
+                                <Image Source="/resources/deleteIcon.png"></Image>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </ContextMenu>
+
+                    <Style TargetType="{x:Type ListBoxItem}">
+                        <Setter Property="ContextMenu" Value="{StaticResource TestContextMenu }"></Setter>
+                    </Style>
+                </ListBox.Resources>
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate x:Name="testTemplate">                        
+                        <WrapPanel HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" Margin="0 0 0 20">
+
+                            <TextBlock MouseLeftButtonDown="LoadTestFromMenu" Text="{Binding Name}" x:Name="testName" MouseLeave="TextBlock_MouseLeave" MouseEnter="TextBlock_MouseEnter" FontSize="34" FontWeight="Bold" Foreground="#317F97" VerticalAlignment="Center"/>
+                            <TextBlock x:Name="testID" Visibility="Hidden" Text="{Binding ID}"></TextBlock>
+                        </WrapPanel>                        
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                
+            </ListBox>
+
+            <WrapPanel Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Width="30" Height="30" Source="/resources/pdf.png"></Image>
+                <TextBlock MouseLeftButtonDown="OpenInstruction" MouseEnter="Instruction_MouseEnter" MouseLeave="Instruction_MouseLeave" FontFamily="Consolas" FontSize="34" FontWeight="ExtraBold">Инструкция</TextBlock>
+            </WrapPanel>
+
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="8*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <WrapPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                <TextBox x:Name="searchText" FontWeight="ExtraBold" BorderThickness="0 0 0 2" Width="700" FontFamily="Consolas" FontSize="20">Поиск....</TextBox>
+                <Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Cursor="Hand" Width="30" Height="30" Margin="20 0 0 0" Source="/resources/magnifier.png"></Image>
+            </WrapPanel>
+
+            <ListBox Grid.Row="1" ItemsSource="{Binding}" x:Name="adminsList" FontFamily="Consolas" FontSize="18" FontWeight="ExtraBold">
+                <ListBox.ItemTemplate>
+                    <DataTemplate x:Name="adminTemplate">
+                        <StackPanel Grid.ColumnSpan="3" Margin="0 0 0 30">
+                            <WrapPanel VerticalAlignment="Center">
+                                <TextBlock FontSize="20" Foreground="#317F97">ID:</TextBlock>
+                                <TextBlock Margin="10 0 0 0" x:Name="adminId" Text="{Binding ID}"></TextBlock>
+                            </WrapPanel>
+                            <WrapPanel VerticalAlignment="Center">
+                                <TextBlock FontSize="20" Foreground="#317F97">Логин:</TextBlock>
+                                <TextBlock Margin="10 0 0 0" x:Name="adminLogin" Text="{Binding Login}"></TextBlock>
+                            </WrapPanel>
+                            <WrapPanel VerticalAlignment="Center">
+                                <TextBlock FontSize="20" Foreground="#317F97">Пароль:</TextBlock>
+                                <TextBlock Margin="10 0 0 0" x:Name="adminPass" Text="{Binding Password}"></TextBlock>
+                            </WrapPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>  
+            
+        <ListBox Margin="0 10 0 0" Grid.ColumnSpan="3" Grid.Row="1" x:Name="questionsList" ItemsSource="{Binding}" FontFamily="Consolas" FontWeight="Bold" Background="White">
+            <ListBox.Resources>
+                <ContextMenu x:Key="ContextMenu" FontFamily="Consolas" FontSize="20px" Foreground="CadetBlue">
+
+                        <MenuItem Header="Добавить"
+                              Click="AddQuestion">
+                            <MenuItem.Icon>
+                                <Image Source="/resources/plus.png"></Image>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    
+                        <MenuItem Header="Изменить"
+                              Click="EditQuestion"
+                              CommandParameter="{Binding RelativeSource={RelativeSource Self}, Path=Parent}">
+                        <MenuItem.Icon>
+                            <Image Source="/resources/changeIcon.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    
+                    <MenuItem Header="Удалить"
+                              Click="DeleteQuestion"
+                              CommandParameter="{Binding RelativeSource={RelativeSource Self}, Path=Parent}">
+                        <MenuItem.Icon>
+                            <Image Source="/resources/deleteIcon.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    </ContextMenu>
+                
+                <Style TargetType="{x:Type ListBoxItem}">
+                    <Setter Property="ContextMenu" Value="{StaticResource ContextMenu}"></Setter>
+                </Style>
+            </ListBox.Resources>            
+
+            <ListBox.ItemTemplate>               
+                <DataTemplate x:Name="questionTemplate">
+                    <StackPanel Margin="10 0 0 20">
+
+                            <TextBlock FontSize="24" Foreground="darkslategray" Margin="0 0 0 10" x:Name="qId" Text="{Binding ID}">. 
+                                <TextBlock x:Name="questionTitle" HorizontalAlignment="Left" Text="{Binding Name}" Width="1000" TextWrapping="WrapWithOverflow" FontSize="24" Foreground="darkslategray" Margin="0 0 0 10"/>
+                            </TextBlock>
+                            <TextBlock Margin="0 0 0 10" FontSize="18" Foreground="CadetBlue" x:Name="response1Text" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="1000" TextWrapping="WrapWithOverflow" Text="{Binding Responses[0]}"></TextBlock>
+                        <TextBlock Margin="0 0 0 10" FontSize="18" Foreground="CadetBlue" x:Name="response2Text" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="1000" TextWrapping="WrapWithOverflow" Text="{Binding Responses[1]}"></TextBlock>
+                        <TextBlock Margin="0 0 0 10" FontSize="18" Foreground="CadetBlue" x:Name="response3Text" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="1000" TextWrapping="WrapWithOverflow" Text="{Binding Responses[2]}"></TextBlock>
+                        <TextBlock Margin="0 0 0 10" FontSize="18" Foreground="CadetBlue" x:Name="response4Text" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="1000" TextWrapping="WrapWithOverflow" Text="{Binding Responses[3]}"></TextBlock>
+                        <TextBlock Margin="0 0 0 10" FontSize="18" Foreground="CadetBlue" x:Name="response5Text" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="1000" TextWrapping="WrapWithOverflow" Text="{Binding Responses[4]}"></TextBlock>
+                            
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        </Grid>
+    </Grid>
+</Window>

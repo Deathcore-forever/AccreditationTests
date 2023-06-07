@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>TestDesign.App</StartupObject>
+    <ApplicationIcon>appicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="RadioButtonOff.png" />
+    <None Remove="resources\AccreditationTests.db" />
+    <None Remove="resources\appicon.png" />
+    <None Remove="resources\changeicon.png" />
+    <None Remove="resources\deleteicon.png" />
+    <None Remove="resources\logout.png" />
+    <None Remove="resources\magnifier.png" />
+    <None Remove="resources\pdf.png" />
+    <None Remove="resources\plus.png" />
+    <None Remove="resources\RadioButtonOn.png" />
+    <None Remove="resources\Инструкция.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="7.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="resources\AccreditationTests.db">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Resource Include="resources\appicon.png" />
+    <Resource Include="resources\changeicon.png" />
+    <Resource Include="resources\deleteicon.png" />
+    <Resource Include="resources\logout.png" />
+    <Resource Include="resources\magnifier.png" />
+    <Resource Include="resources\MenuIcon.png" />
+    <Resource Include="resources\pdf.png" />
+    <Resource Include="resources\plus.png" />
+    <Resource Include="resources\QuestionIcon.png" />
+    <Resource Include="resources\RadioButtonOff.png" />
+    <Resource Include="resources\RadioButtonOn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="AccreditationTests.db">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
